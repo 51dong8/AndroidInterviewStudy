@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+captures/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 本地配置（含本机 SDK/JDK 路径，不入库）
+local.properties
+
+# 原生
+.externalNativeBuild/
+.cxx/
+
+# 验证截图等临时产物
+verify/
